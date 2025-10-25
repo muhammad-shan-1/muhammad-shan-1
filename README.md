@@ -15,7 +15,7 @@
 <h2 align="center">🌿 About Me</h2>
 
 <p align="center">
-  I'm <b>Muhammad Shan</b> — an experienced <b>Ecommerce Expert</b> and <b>Full-Stack Web Developer</b>.  
+  I'm <b>Muhammad Shan</b> — an experienced <b> Ecommerce Expert</b> and <b>Full-Stack Web Developer</b>.  
   I help businesses build, optimize, and scale profitable online stores using platforms like  
   <b>Shopify</b>, <b>Amazon</b>, <b>WooCommerce</b>, <b>eBay</b>, <b>Etsy</b>, and <b>Walmart</b>.  
   <br><br>
