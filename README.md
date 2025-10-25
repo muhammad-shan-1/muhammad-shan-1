@@ -1,40 +1,78 @@
-<h1 align="center">Hi 👋, I'm Muhammad Shan</h1>
-<h3 align="center">Ecommerce Expert & Professional Web Developer</h3>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-shan-1&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-shan-1" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-shan-1" alt="muhammad-shan-1" /></a> </p>
+<h1 align="center">hey there 👋</h1>
 
-- 🔭 I’m currently working on: Shopify Store Design & Setup for beauty and lifestyle brands [Nano Sip Store Building](nanosip.com)
+###
 
-- 🌱 I’m currently learning **Advanced Shopify Liquid, Google Analytics 4, and Conversion Rate Optimization**
+<p align="left">My name is Muhammad Shan, and I'm an Ecommerce Expert & Web Developer from Pakistan.</p>
 
-- 👯 I’m looking to collaborate on: Ecommerce automation tools, Shopify app development, and marketing integrations [Collaborate](https://linktr.ee/muhammadshan_ecom_Expert)
+###
 
-- 🤝 I’m looking for help with: AI-based product recommendation systems and SEO analytics [Recommendation](https://linktr.ee/muhammadshan_ecom_Expert)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=muhammad-shan-1.muhammad-shan-1&"  />
+</div>
 
-- 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01f7ed0e1437c91cf7](https://www.upwork.com/freelancers/~01f7ed0e1437c91cf7)
+###
 
-- 📝 I regularly write articles on [https://tinyurl.com/shanecommerce](https://tinyurl.com/shanecommerce)
+<h3 align="left">👩‍💻  About Me</h3>
 
-- 💬 Ask me about **Shopify, Amazon FBA, WordPress, WooCommerce, SEO, and ecommerce strategy**
+###
 
-- 📫 How to reach me **https://tinyurl.com/shanecommerce**
+<p align="left">✨ Creating bugs since: 2018<br>🎯 I'm currently learning: Advanced Shopify customization, React.js, and SEO automation<br>🚀 Goals: To help businesses grow online by building fast, modern, and high-converting stores<br>😄 Fun fact: I can build a full Shopify store faster than most people can choose a product niche!</p>
 
-- 📄 Know about my experiences [https://www.upwork.com/freelancers/~01f7ed0e1437c91cf7](https://www.upwork.com/freelancers/~01f7ed0e1437c91cf7)
+###
 
-- ⚡ Fun fact **I love turning small business ideas into successful online brands — and I think I’m pretty funny too 😄**
+<h3 align="left">🛠 Language and tools</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhamadshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhamadshan" height="30" width="40" /></a>
-<a href="https://instagram.com/amzecommerce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amzecommerce" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ecommwith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ecommwith" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="webflow logo"  />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-shan-1&show_icons=true&locale=en&layout=compact" alt="muhammad-shan-1" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-shan-1&show_icons=true&locale=en" alt="muhammad-shan-1" /></p>
+<h3 align="left">Analysis</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-shan-1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-shan-1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=muhammad-shan-1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
