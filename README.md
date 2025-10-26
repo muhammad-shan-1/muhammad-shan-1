@@ -1,4 +1,4 @@
-l<!-- Animated Header -->
+<!-- Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=200&section=header&text=Muhammad%20Shan&fontColor=ffffff&fontSize=65&fontAlignY=35&desc=Ecommerce%20Expert%20|%20Web%20Developer%20|%20Shopify%20Specialist&descAlignY=55&animation=twinkling"/>
 </p>
